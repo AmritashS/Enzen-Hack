@@ -1,4 +1,8 @@
 # Enzen-Hack
+
+##Pre-requisites
+[Download the executable](https://drive.google.com/file/d/1Dc0IZTyPZg22QAfxL7dhKV26xEcndW2l/view?usp=sharing) before following below steps].
+
 to run this program you'll need to install Node.js [Download Node here](https://nodejs.org/en/download/)<br><br>
 After doing that run this block of code in your terminal<br><br>
 `npm install create-react-app`
